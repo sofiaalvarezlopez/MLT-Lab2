@@ -1,0 +1,2 @@
+Link del repositorio: https://github.com/sofiaalvarezlopez/MLT-Lab2
+Nota: Enviamos el link del repositorio porque los modelos son muy pesados y no se subían con facilidad a Bloque Neón.
